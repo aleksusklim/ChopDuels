@@ -1,6 +1,6 @@
-﻿# [Kly_Men_COmpany](https://github.com/aleksusklim/Kly_Men_COmpany "Kly_Men_COmpany")/[Games](https://github.com/aleksusklim/Kly_Men_COmpany/tree/master/Games "Kly_Men_COmpany/Games/")/[chopduel](https://github.com/aleksusklim/chopduel "Kly_Men_COmpany/Games/chopduel/")/
+﻿# [Kly_Men_COmpany](https://github.com/aleksusklim/Kly_Men_COmpany "Kly_Men_COmpany")/[Games](https://github.com/aleksusklim/Kly_Men_COmpany/tree/master/Games "Kly_Men_COmpany/Games/")/[ChopDuels](https://github.com/aleksusklim/ChopDuels "Kly_Men_COmpany/Games/ChopDuels/")/
 
-The project is stored in [project/chopduel.gmk](./project/chopduel.gmk).
+The project is stored in [project/ChopDuels.gmk](./project/ChopDuels.gmk).
 
 ## Download:
 
